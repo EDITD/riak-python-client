@@ -33,7 +33,7 @@ except(IOError, ImportError):
     long_description = readme_md
 
 setup(
-    name='riak',
+    name='riak_edited',
     version=get_version(),
     packages=find_packages(),
     requires=requires,
